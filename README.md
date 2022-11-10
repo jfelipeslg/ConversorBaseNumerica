@@ -1,8 +1,8 @@
 # Conversor entre bases númericas
 Conversor entre bases numéricas em Python, são elas:
-- Sistema binário
-- Sistema decimal
-- Sistema octal
-- Sistema hexadecimal
+- Sistema de numeração binário
+- Sistema de numeração decimal
+- Sistema de numeração octal
+- Sistema de numeração hexadecimal
 
 ![Screenshot](layout.png)
