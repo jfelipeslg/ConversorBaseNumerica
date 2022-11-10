@@ -1,5 +1,5 @@
 # Conversor entre bases númericas
-Conversor entre bases númericas em Python, são elas:
+Conversor entre bases numéricas em Python, são elas:
 - Sistema binário
 - Sistema decimal
 - Sistema octal
