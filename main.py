@@ -109,5 +109,3 @@ valueHexadecimal = Label(frame_down, text='', width=13, relief=FLAT,
 valueHexadecimal.place(x=400, y=160)
 
 janela.mainloop()
-
-
